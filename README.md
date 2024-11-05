@@ -22,7 +22,7 @@
 ### Part 1
 - Create a new project and add `Parsing01.java` file to the project
 - Declare and initialize 3 `String`s with the following data:
-    |** String Value ** | ** Description ** | ** Example Values ** |
+    | String Value | Description | Example Values |
     |-------------------|-------------------|----------------------|
     | `shirtPrice` | Text to be converted to an **`int`**: | "`15`" |
     | `taxRate` | Text to be converted to a **`double`**: | "`0.05`" |
